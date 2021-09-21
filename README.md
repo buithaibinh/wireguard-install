@@ -5,8 +5,10 @@ OS: Debian 10
 2. allow static IP
 3. Reboot
 4. Update OS
-  4.1 sudo apt-get update && sudo apt-get upgrade
-  Run below scrip.
+
+  ```sudo apt-get update && sudo apt-get upgrade```
+
+5.Run below scrip.
 
 
 ## wireguard-install
