@@ -1,3 +1,14 @@
+## Create VPS
+OS: Debian 10
+
+1. Create VPS
+2. allow static IP
+3. Reboot
+4. Update OS
+  4.1 sudo apt-get update && sudo apt-get upgrade
+  Run below scrip.
+
+
 ## wireguard-install
 WireGuard [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
 
